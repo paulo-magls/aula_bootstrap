@@ -3,12 +3,20 @@ body{
 }
 
 .navbar {
-	background-color: #76D7C4;
+	background-color: #3242A8;
+}
+
+#global-labs {
+	margin-left: 20px;
 }
 
 .quem-somos{
 	background-color: #2E86C1;
 	color: #fff;
+}
+
+#frase {
+	margin-top: 60px;
 }
 
 .margin{
